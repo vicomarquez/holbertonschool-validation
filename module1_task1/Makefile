@@ -7,7 +7,3 @@ post:
 
 build:
 		hugo > /dev/null 2>&1
-
-help : #if helps needed, helps here
-	@echo "post : post your new post"
-	@echo "clean: clears recursively the directory dist"
